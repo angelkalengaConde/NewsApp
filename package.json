@@ -1,0 +1,21 @@
+{
+  "name": "userapp",
+  "description": "user application",
+  "version": "1.0.0",
+  "author": "",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt-nodejs": "*",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "cors": "^2.8.4",
+    "express": "4.x",
+    "express-session": "*",
+    "karma-jasmine": "^1.1.2"
+  },
+  "devDependencies": {
+    "jasmine": "^3.2.0",
+    "jasmine-core": "^3.2.1",
+    "karma": "^3.0.0"
+  }
+}
